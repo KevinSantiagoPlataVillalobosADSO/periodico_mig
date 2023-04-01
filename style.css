@@ -1,0 +1,372 @@
+.cuerpo{
+    background-color: #c7ba98;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 890px;
+    height: 940px;
+    margin: auto;
+}
+
+.cajaD{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 445px;
+    height: 940px;
+    margin: auto;
+}
+
+.cajaI{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 445px;
+    height: 940px;
+    margin: auto;
+}
+
+
+.caja1D{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 200px;
+    height: 450px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.caja2D{
+    position: absolute;
+    top: 20px;
+    left: 240px;
+    width: 200px;
+    height: 450px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.caja3D{
+    position: absolute;
+    top: 480px;
+    left: 20px;
+    width: 412px;
+    height: 420px;
+    margin: auto;
+    border: 6px double black;
+}
+
+.caja1I{
+    position: absolute;
+    left: 15px;
+    top: 20px;
+    width: 190px;
+    height: 680px;
+    margin: auto;
+
+}
+
+.caja2I{
+    position: absolute;
+    left: 220px;
+    top: 20px;
+    width: 190px;
+    height: 680px;
+    margin: auto;
+
+}
+
+.caja3I{
+    position: absolute;
+    top: 715px;
+    width: 395px;
+    left: 15px;
+    height: 200px;
+    margin: auto;
+}
+
+.textimg2{
+    position: absolute;
+    right: 0;
+    left: -20px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 320px;
+    width: 250px;
+    height: 150px;
+    font-size: 80%;
+}
+.textimg1{
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    top: 220px;
+    width: 195px;
+    height: 90px;
+    font-size: 70%;
+    text-align: center;
+    border: 3px dashed black;
+    background-color: #908a74;
+}
+.textimg2 p{
+    text-align: center;
+}
+.opening{
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: auto;
+    font-size: 200%;
+}
+
+.tans{
+    position: absolute;
+    top: 19px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    font-size: 150%;
+}
+.one{
+    position: absolute;
+    top: 35px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    font-size: 100%;
+    width: 100px;
+}
+
+.num1{
+    position: absolute;
+    left: 110px;
+    font-size: 300%;
+    width: 100px;
+    top: -10px;
+}
+
+.num2{
+    position: absolute;
+    right: 110px;
+    font-size: 300%;
+    width: 100px;
+    top: -10px;
+}
+
+.lorem{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    font-size: 100%;
+}
+
+.sign{
+
+    position: absolute;
+    left: 132px;
+    font-size: 150%;
+    width: 100px;
+    top: 10px;
+
+}
+
+.descimg1{
+    position: absolute;
+    top: 380px;
+    font-size: 220%;
+    margin-left: 5px;
+}
+
+.numimg1{
+    position: absolute;
+    top: 420px;
+    right: 0;
+    font-size: 80%;
+    margin-right: 5px;
+}
+
+.text1{
+    text-align: center;
+    font-size: 80%;
+}
+
+.text2{
+    text-align: center;
+    font-size: 80%;
+}
+
+.call{
+    font-size: 100%;
+    text-align: center;
+}
+.call1{
+    padding-bottom: 15px;
+}
+
+.textcall{
+    position: absolute;
+    top: 315px;
+    left: 50px;
+    padding-bottom: 50px;
+    font-size: 60%;
+}
+
+.loremtext{
+    padding-bottom: 30px;
+}
+
+.hora{
+    position: absolute;
+    top: 375px;
+    left: 80px;
+    font-size: 60%;
+}
+
+.horatext{
+    position: absolute;
+    top: 385px;
+    left: 50px;
+    font-size: 60%;
+}
+
+.pietext{
+    position: absolute;
+    top: 405px;
+    left: 25px;
+    font-size: 60%;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+
+}
+
+.wanted{
+    position: absolute;
+    font-size: 400%;
+    left: 70px;
+    bottom: 290px;
+}
+
+.sam{
+    position: absolute;
+    font-size: 135%;
+    left: 85px;
+    bottom: 320px;
+}
+
+.the{
+    font-style: italic;
+    position: absolute;
+    top: 70px;
+    left: 50px;
+}
+
+.textoc3{
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    width: 140px;
+    font-size: 70%;
+}
+
+.texto2c3{
+    position: absolute;
+    top: 135px;
+    left: 40px;
+    width: 175px;
+    font-size: 60%;
+}
+
+.texto3c3{
+    position: absolute;
+    width: 120px;
+    top: 245px;
+    left: 40px;
+    height: 90px;
+    font-size: 70%;
+
+}
+
+.texto4c3{
+    position: absolute;
+    top: 270px;
+    left: 40px;
+    width: 110px;
+    font-size: 60%;
+}
+
+.texto5c3{
+    position: absolute;
+    top: 110px;
+    left: 225px;
+    width: 165px;
+    font-size: 60%;
+}
+
+.texto6c3{
+    position: absolute;
+    top: 160px;
+    left: 225px;
+    width: 165px;
+    font-size: 70%;
+}
+
+.lista1{
+    position: absolute;
+    top: 175px;
+    left: 195px;
+    width: 165px;
+    font-size: 60%;
+
+}
+
+.lista2{
+    position: absolute;
+    top: 243px;
+    left: 255px;
+    width: 150px;
+    font-size: 60%;
+}
+
+.porro{
+    margin-left: 30px;
+}
+
+.texto7c3{
+    position: absolute;
+    top: 375px;
+    left: 55px;
+    width: 300px;
+    font-size: 50%;
+    text-align: center;
+    font-style: italic;
+}
+
+.texto8c3{
+    position: absolute;
+    top: 405px;
+    left: 20px;
+    width: 400px;
+    font-size: 15%;
+}
+.vote{
+    position: absolute;
+    left: 0;
+    margin-left: 160px;
+    top: 0;
+    margin-top: 250px;
+    width: 100px;
+}
+
+
+
+
