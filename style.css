@@ -366,7 +366,17 @@
     margin-top: 250px;
     width: 100px;
 }
-
+.caja1I{
+    font-size: 110.5%;
+}
+.caja2I{
+    font-size: 100.5%;
+}
+.final{
+    position: absolute;
+    left: 0;
+    margin-left: 450px;
+}
 
 
 
